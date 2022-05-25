@@ -24,8 +24,8 @@
     "docs": "typedoc src/index.tsx --plugin typedoc-plugin-markdown && concat-md --decrease-title-levels --dir-name-as-title docs > DOCUMENTATION.md"
   },
   "peerDependencies": {
-    "next": "^11.0.1",
-    "react": "^17.0.2"
+    "next": "^12.1.6",
+    "react": "^18.1.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.28.5",
